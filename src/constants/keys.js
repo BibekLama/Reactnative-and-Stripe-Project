@@ -1,0 +1,1 @@
+export default  SECRET_KEY = 'sk_test_YVZhYEaqUxQzRkSJbX9ScLid';
